@@ -99,10 +99,10 @@ class superMag:
             return {"rowcount": self.cursor.rowcount}
 
         except Exception:
-            log.exception("Ошибка выполнения SQL-запроса")
+            print("Ошибка выполнения SQL-запроса")
             if commit and self.connection:
                 try:
                     self.connection.rollback()
                 except Exception:
-                    log.exception("Ошибка rollback после неудачного SQL-запроса")
+                    print("Ошибка rollback после неудачного SQL-запроса")
             raise
