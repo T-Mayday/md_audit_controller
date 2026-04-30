@@ -1,0 +1,51 @@
+{
+      "id": 38,
+      "name": "БУРЯТИЯ",
+      "active": true,
+      "dirs": [
+        {
+          "id": 2180,
+          "active": true,
+          "login": "t.maydarkhanov@binuu.ru",
+          "firstName": "Цырендоржо",
+          "lastName": "Майдарханов",
+          "createdAt": "2026-04-22T07:08:46.184511",
+          "position": "Тестовая Должность",
+          "email": "t.maydarkhanov@binuu.ru",
+          "level": "DIVISION",
+          "businessDirId": 1002,
+          "lang": "ru_RU",
+          "invited": false,
+          "authorId": 1,
+          "avatarChangeDisabled": false
+        }
+      ],
+      "regionsCount": 4,
+      "shopsCount": 1
+    },
+    {
+      "id": 39,
+      "name": "ЗАБАЙКАЛЬСКИЙ КРАЙ",
+      "active": true,
+      "dirs": [
+        {
+          "id": 2180,
+          "active": true,
+          "login": "t.maydarkhanov@binuu.ru",
+          "firstName": "Цырендоржо",
+          "lastName": "Майдарханов",
+          "createdAt": "2026-04-22T07:08:46.184511",
+          "position": "Тестовая Должность",
+          "email": "t.maydarkhanov@binuu.ru",
+          "level": "DIVISION",
+          "businessDirId": 1002,
+          "lang": "ru_RU",
+          "invited": false,
+          "authorId": 1,
+          "avatarChangeDisabled": false
+        }
+      ],
+      "regionsCount": 3,
+      "shopsCount": 0
+    }
+  
